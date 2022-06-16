@@ -1,3 +1,3 @@
 # blog do iug
 
-A simple blog written from @iugmali.
+A simple blog written by @iugmali.
